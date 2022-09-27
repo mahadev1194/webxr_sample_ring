@@ -1,1 +1,2 @@
-# webxr_sample_ring
+# webxr-js-hit-test
+Link: https://allinreality.github.io/webxrapi_tutorial/
