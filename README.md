@@ -1,2 +1,2 @@
-# webxr-js-hit-test
+# webxr_sample_ring
 
